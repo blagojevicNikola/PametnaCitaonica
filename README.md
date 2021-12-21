@@ -1,4 +1,4 @@
-# pametna_citaonica
+# Pametna Citaonica
 
 A new Flutter project.
 
